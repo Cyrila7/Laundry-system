@@ -38,3 +38,7 @@ A production-style REST API built with Spring Boot for managing laundry orders w
 2. Create a PostgreSQL database called `laundry_db`
 3. Add your database credentials to `application.properties`
 4. Run the application.
+
+## Honest Notes
+Spring Security humbled me. JWT filters, SecurityContext, stateless sessions — 
+none of it made sense until I built it myself. Now it clicks. 😂
