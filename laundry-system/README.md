@@ -37,4 +37,4 @@ A production-style REST API built with Spring Boot for managing laundry orders w
 1. Clone the repo
 2. Create a PostgreSQL database called `laundry_db`
 3. Add your database credentials to `application.properties`
-4. Run the application
+4. Run the application.
