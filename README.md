@@ -1,9 +1,9 @@
-# 🧺 Laundry Order Management System
+# Laundry Order Management System
 
 A production-style REST API built with Spring Boot for managing laundry orders with real-time status tracking.
 
 ## Tech Stack
-- Java 21
+- Java 17
 - Spring Boot
 - Spring Security + JWT Authentication
 - PostgreSQL
